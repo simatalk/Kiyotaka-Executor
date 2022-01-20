@@ -8,3 +8,5 @@ For Eveyone on Pc:
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs
 
 This was made by Alexey Simakov, Have Fun!
+
+If you get a windows warning, do not worry this is part of the exploit just allow it. It should be this Trojan:Script/Wacatac.B!ml
